@@ -1,0 +1,21 @@
+{
+  "name": "submission-back-end-web-pemula-google-cloud",
+  "version": "1.0.0",
+  "description": "Submission Dicoding sebagai syarat kelulusan kelas Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Wilson Jonathan Oey",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "nanoid": "^3.1.25"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
